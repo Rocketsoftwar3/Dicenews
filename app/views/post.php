@@ -17,7 +17,6 @@
     </div>
 </div>
 
-<!-- Section Commentaires -->
 <div class="comments-section">
     <h3 class="comments-title">Commentaires</h3>
     
